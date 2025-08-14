@@ -2,3 +2,6 @@ Stock Price Preiction Model - This project involved developing a predictive ML m
 
 
 Salary Prediction Model - This project involved developing a salary prediction structure based on two numerical inputs: age, education level and experience. Use one-to-one mapping for education level. Used pair plotd and correlation to analyse the interdendability for the features. Employed gradient descent optimization to minimize the loss function and enhance model precision. Visualized the relationship and training progress on a graph for interpretability. Achieved a model accuracy of around 0.89, demonstrating robust predictive capability.
+
+
+Insurance Charges Prediction Model - This project predicts individual life insurance charges based on factors such as age, BMI, smoking status, and region. It involves data preprocessing, feature encoding, and training regression models with the help Decision Tree Regressor and Random Forest Regressor. Model performance is evaluated for both models using metrics like MAE and R² Score to identify the most accurate approach for cost prediction. Achieved a model accuracy of around 0.87 for Random Forest Regressor and performed feature importance on this considering it as the better approach.
